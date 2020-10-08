@@ -35,7 +35,7 @@ public class AddingMachine {
 	
 	public void clear() {
 		
-		words = "0";
+		words = "\n 0";
 		total = 0;
 	}
  }
